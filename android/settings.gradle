@@ -1,0 +1,3 @@
+rootProject.name = 'prt_bug_test'
+
+include ':app'
